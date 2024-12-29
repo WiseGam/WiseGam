@@ -37,7 +37,7 @@ Hi there! I'm **WiseGam**, an independent developer with a passion for technolog
 I'm always excited to collaborate on interesting projects! Feel free to reach out:
 
 - 🌐 [GitHub](https://github.com/WiseGam)
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](mailto:wisegam.github@pm.me)
 
 ## 🚀 Let's Build Together!
 
