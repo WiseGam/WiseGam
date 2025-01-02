@@ -1,6 +1,6 @@
 # 👾 Welcome to WiseGam's GitHub!
 
-![GitHub followers](https://img.shields.io/github/followers/WiseGam)
+![GitHub followers](https://img.shields.io/github/followers/WiseGam?style=for-the-badge)
 
 Hi there! I'm **WiseGam**, an independent developer with a passion for technology, collaboration, and open-source. This is where I share my projects, ideas, and experiments. Dive in and explore! 🚀
 
@@ -38,8 +38,9 @@ Hi there! I'm **WiseGam**, an independent developer with a passion for technolog
 
 I'm always excited to collaborate on interesting projects! Feel free to reach out:
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/WiseGamX)
-- 📧 [Email](mailto:wisegam.github@pm.me)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/WiseGamX?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/my-email-blue?style=for-the-badge&link=mailto%3Awisegam.github%40pm.me)
 
 ## 🚀 Let's Build Together!
 
