@@ -38,8 +38,6 @@ Hi there! I'm **WiseGam**, an independent developer with a passion for technolog
 
 I'm always excited to collaborate on interesting projects! Feel free to reach out:
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/WiseGamX?style=for-the-badge)
-
 ![Static Badge](https://img.shields.io/badge/my-email-blue?style=for-the-badge&link=mailto%3Awisegam.github%40pm.me)
 
 ## 🚀 Let's Build Together!
